@@ -98,7 +98,7 @@ export const USER_CONFIG = {
     {
       name: "老婆1",
       id: "oeaW45mdPqWoJ2mgDzwtnY9IotR8",
-      useTemplateId: "	bvX17vR91xxKDIQ4N23vh4kax8ONiBpxU56g9dNxF8s",
+      useTemplateId: "	GhN_6_Y-vc-bLYM5VemnYKXVBlNeVccrErwqvNwIOhI",
       province: "陕西",
       city: "榆林",
       horoscopeDate: '03-02',
