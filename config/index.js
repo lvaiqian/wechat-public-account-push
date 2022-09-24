@@ -140,7 +140,7 @@ export const USER_CONFIG = {
    */
   
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "bvX17vR91xxKDIQ4N23vh4kax8ONiBpxU56g9dNxF8s",
+  CALLBACK_TEMPLATE_ID: "XkjMhdR3KYcFi43aNJLwgMY0eoHVWMIFQgfOCY3ITvc",
   
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
