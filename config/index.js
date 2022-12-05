@@ -65,7 +65,7 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oeaW45mdPqWoJ2mgDzwtnY9IotR8",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "uu3TmRXbZMHI9-rttMatV9_XeaWF8EI3psL3aaFcduw",
+      useTemplateId: "AOzy125l5EWixSzP5aYhIBKYX660cv1uJjmTnANjT-g",
       // 所在省份
       province: "陕西",
       // 所在城市
@@ -98,7 +98,7 @@ export const USER_CONFIG = {
     {
       name: "马小姐请查收您的每日推送",
       id: "oeaW45mdPqWoJ2mgDzwtnY9IotR8",
-      useTemplateId: "uu3TmRXbZMHI9-rttMatV9_XeaWF8EI3psL3aaFcduw",
+      useTemplateId: "AOzy125l5EWixSzP5aYhIBKYX660cv1uJjmTnANjT-g",
       province: "陕西",
       city: "榆林",
       horoscopeDate: '03-02',
@@ -110,7 +110,7 @@ export const USER_CONFIG = {
     {
       name: "吕先生请查收您的每日推送",
       id: "oeaW45kWZYJgMfK9q4QOSk77Aw-g",
-      useTemplateId: "uu3TmRXbZMHI9-rttMatV9_XeaWF8EI3psL3aaFcduw",
+      useTemplateId: "AOzy125l5EWixSzP5aYhIBKYX660cv1uJjmTnANjT-g",
       province: "江西",
       city: "九江",
       horoscopeDate: '08-28',
@@ -120,16 +120,16 @@ export const USER_CONFIG = {
       customizedDateList: [{"keyword": "love_day", date: "2022-06-23"}]
     },
     {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
+      name: "吕先生",
+      id: "oeaW45kWZYJgMfK9q4QOSk77Aw-g",
+      useTemplateId: "uu3TmRXbZMHI9-rttMatV9_XeaWF8EI3psL3aaFcduw	",
+      province: "陕西",
+      city: "渭南",
+      horoscopeDate: '03-02',
+      horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      festivals: ["type": "*生日", "name": "马小姐", "year": "2003", "date": "03-02"}],
+      customizedDateList: [{"keyword": "love_day", date: "2022-06-23"}]
     },
     // 你可以不断按格式往下增加
     // ...
