@@ -128,7 +128,7 @@ export const USER_CONFIG = {
       horoscopeDate: '03-02',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: ["type": "*生日", "name": "马小姐", "year": "2003", "date": "03-02"}],
+      festivals: [{"type": "*生日", "name": "马小姐", "year": "2003", "date": "03-02"}],
       customizedDateList: [{"keyword": "love_day", date: "2022-06-23"}]
     },
     // 你可以不断按格式往下增加
