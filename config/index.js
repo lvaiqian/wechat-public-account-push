@@ -61,7 +61,7 @@ export const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "马茜茜我爱你别这么对我",
+      name: "马小姐您的每日推送",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oeaW45mdPqWoJ2mgDzwtnY9IotR8",
       // 你想对他发送的模板消息的模板ID
@@ -69,7 +69,7 @@ export const USER_CONFIG = {
       // 所在省份
       province: "陕西",
       // 所在城市
-      city: "榆林",
+      city: "渭南",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '03-02',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -96,7 +96,7 @@ export const USER_CONFIG = {
       ]
     },
     {
-      name: "老婆1",
+      name: "马小姐请查收您的每日推送",
       id: "oeaW45mdPqWoJ2mgDzwtnY9IotR8",
       useTemplateId: "uu3TmRXbZMHI9-rttMatV9_XeaWF8EI3psL3aaFcduw",
       province: "陕西",
@@ -104,20 +104,20 @@ export const USER_CONFIG = {
       horoscopeDate: '03-02',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [ {"type": "*生日", "name": "老婆", "year": "2003", "date": "03-02"}],
+      festivals: [ {"type": "*生日", "name": "马小姐", "year": "2003", "date": "03-02"}],
       customizedDateList: [{"keyword": "love_day", date: "2022-06-23"}]
     },
     {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
+      name: "吕先生请查收您的每日推送",
+      id: "oeaW45kWZYJgMfK9q4QOSk77Aw-g",
+      useTemplateId: "uu3TmRXbZMHI9-rttMatV9_XeaWF8EI3psL3aaFcduw",
+      province: "江西",
+      city: "九江",
+      horoscopeDate: '08-28',
+      horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      festivals: [ {"type": "*生日", "name": "马小姐", "year": "2003", "date": "03-02"}],
+      customizedDateList: [{"keyword": "love_day", date: "2022-06-23"}]
     },
     {
       name: "老婆3",
