@@ -61,17 +61,17 @@ export const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "马小姐您的每日推送",
+      name: "婷婷的每日推送",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oeaW45mdPqWoJ2mgDzwtnY9IotR8",
+      id: "oeaW45gVpjFzTIVLaekY1kZ2U-R0",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "EIrmUgv-wvVkr9xrnan8kQ0Vy8VAJudJUUltkztXr-w",
+      useTemplateId: "WykFeFDpKLRgQ4u4mjA0FguNwDb41cbwuZS9ekX7Nfk",
       // 所在省份
-      province: "陕西",
+      province: "山西",
       // 所在城市
-      city: "渭南",
+      city: "灵石",
       // 新历生日, 仅用作获取星座运势, 格式必须
-      horoscopeDate: '03-02',
+      horoscopeDate: '01-16',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
       horoscopeDateType: '今日',
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
@@ -79,7 +79,7 @@ export const USER_CONFIG = {
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {"type": "*生日", "name": "老婆", "year": "2003", "date": "03-02"},
+        {"type": "*生日", "name": "老婆", "year": "2006", "date": "01-16"},
         {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
@@ -88,24 +88,20 @@ export const USER_CONFIG = {
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
         // 在一起的日子
-        {"keyword": "love_day", date: "2022-06-23"},
-        // 结婚纪念日
-        {"keyword": "marry_day", date: "2022-09-09"},
-        // 退伍日
-        {"keyword": "ex_day", date: "2022-09-10"},
-      ]
+        {"keyword": "love_day", date: "2023-01-01"},
+       
     },
     {
-      name: "马小姐请查收您的每日推送",
-      id: "oeaW45mdPqWoJ2mgDzwtnY9IotR8",
-      useTemplateId: "EIrmUgv-wvVkr9xrnan8kQ0Vy8VAJudJUUltkztXr-w",
-      province: "陕西",
-      city: "榆林",
-      horoscopeDate: '03-02',
+      name: "婷婷请查收您的每日推送",
+      id: "oeaW45gVpjFzTIVLaekY1kZ2U-R0",
+      useTemplateId: "WykFeFDpKLRgQ4u4mjA0FguNwDb41cbwuZS9ekX7Nfk",
+      province: "山西",
+      city: "灵石",
+      horoscopeDate: '01-16',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [ {"type": "*生日", "name": "马小姐", "year": "2003", "date": "03-02"}],
-      customizedDateList: [{"keyword": "love_day", date: "2022-06-23"}]
+      festivals: [ {"type": "*生日", "name": "婷婷", "year": "2006", "date": "01-16"}],
+      customizedDateList: [{"keyword": "love_day", date: "2023-01-01"}]
     },
     {
       name: "吕先生请查收您的每日推送",
@@ -116,20 +112,20 @@ export const USER_CONFIG = {
       horoscopeDate: '08-28',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [ {"type": "*生日", "name": "马小姐", "year": "2003", "date": "03-02"}],
-      customizedDateList: [{"keyword": "love_day", date: "2022-06-23"}]
+      festivals: [ {"type": "*生日", "name": "婷婷", "year": "2006", "date": "01-16"}],
+      customizedDateList: [{"keyword": "love_day", date: "2023-01-01"}]
     },
     {
       name: "吕先生",
       id: "oeaW45kWZYJgMfK9q4QOSk77Aw-g",
       useTemplateId: "uu3TmRXbZMHI9-rttMatV9_XeaWF8EI3psL3aaFcduw",
-      province: "陕西",
-      city: "渭南",
-      horoscopeDate: '03-02',
+      province: "山西",
+      city: "灵石",
+      horoscopeDate: '01-16',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [{"type": "*生日", "name": "马小姐", "year": "2003", "date": "03-02"}],
-      customizedDateList: [{"keyword": "love_day", date: "2022-06-23"}]
+      festivals: [{"type": "*生日", "name": "婷婷", "year": "2006", "date": "01-16"}],
+      customizedDateList: [{"keyword": "love_day", date: "2023-01-01"}]
     },
     // 你可以不断按格式往下增加
     // ...
