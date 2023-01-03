@@ -96,7 +96,7 @@ export const USER_CONFIG = {
       id: "oeaW45gVpjFzTIVLaekY1kZ2U-R0",
       useTemplateId: "WykFeFDpKLRgQ4u4mjA0FguNwDb41cbwuZS9ekX7Nfk",
       province: "山西",
-      city: "灵石",
+      city: "晋中",
       horoscopeDate: '01-16',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
