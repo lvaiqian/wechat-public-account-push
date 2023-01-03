@@ -63,9 +63,9 @@ export const USER_CONFIG = {
       // 想要发送的人的名字
       name: "婷婷的每日推送",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "oeaW45gVpjFzTIVLaekY1kZ2U-R0",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "",
+      useTemplateId: "WykFeFDpKLRgQ4u4mjA0FguNwDb41cbwuZS9ekX7Nfk",
       // 所在省份
       province: "山西",
       // 所在城市
@@ -86,9 +86,9 @@ export const USER_CONFIG = {
         {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
-      customizedDateList: [
+      customizedDateList: 
         // 在一起的日子
-        {"keyword": "love_day", date: "2023-01-01"},
+        [{"keyword": "love_day", date: "2023-01-01"}],
        
     },
     {
@@ -106,7 +106,7 @@ export const USER_CONFIG = {
     {
       name: "吕先生请查收您的每日推送",
       id: "oeaW45kWZYJgMfK9q4QOSk77Aw-g",
-      useTemplateId: "uu3TmRXbZMHI9-rttMatV9_XeaWF8EI3psL3aaFcduw",
+      useTemplateId: "WykFeFDpKLRgQ4u4mjA0FguNwDb41cbwuZS9ekX7Nfk",
       province: "江西",
       city: "九江",
       horoscopeDate: '08-28',
@@ -118,7 +118,7 @@ export const USER_CONFIG = {
     {
       name: "吕先生",
       id: "oeaW45kWZYJgMfK9q4QOSk77Aw-g",
-      useTemplateId: "uu3TmRXbZMHI9-rttMatV9_XeaWF8EI3psL3aaFcduw",
+      useTemplateId: "WykFeFDpKLRgQ4u4mjA0FguNwDb41cbwuZS9ekX7Nfk",
       province: "山西",
       city: "灵石",
       horoscopeDate: '01-16',
