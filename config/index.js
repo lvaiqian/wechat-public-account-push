@@ -63,13 +63,13 @@ export const USER_CONFIG = {
       // 想要发送的人的名字
       name: "婷婷的每日推送",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oeaW45gVpjFzTIVLaekY1kZ2U-R0",
+      id: "",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "WykFeFDpKLRgQ4u4mjA0FguNwDb41cbwuZS9ekX7Nfk",
+      useTemplateId: "",
       // 所在省份
       province: "山西",
       // 所在城市
-      city: "灵石",
+      city: "晋中",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '01-16',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
