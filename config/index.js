@@ -65,7 +65,7 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oeaW45gVpjFzTIVLaekY1kZ2U-R0",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "WykFeFDpKLRgQ4u4mjA0FguNwDb41cbwuZS9ekX7Nfk",
+      useTemplateId: "LzI1G2A9ZzI_j14Lt25tknvzL6akKOgOvzhoe3U1eic",
       // 所在省份
       province: "山西",
       // 所在城市
@@ -94,7 +94,7 @@ export const USER_CONFIG = {
     {
       name: "婷婷请查收您的每日推送",
       id: "oeaW45gVpjFzTIVLaekY1kZ2U-R0",
-      useTemplateId: "WykFeFDpKLRgQ4u4mjA0FguNwDb41cbwuZS9ekX7Nfk",
+      useTemplateId: "LzI1G2A9ZzI_j14Lt25tknvzL6akKOgOvzhoe3U1eic",
       province: "山西",
       city: "晋中",
       horoscopeDate: '01-16',
@@ -106,7 +106,7 @@ export const USER_CONFIG = {
     {
       name: "吕先生请查收您的每日推送",
       id: "oeaW45kWZYJgMfK9q4QOSk77Aw-g",
-      useTemplateId: "WykFeFDpKLRgQ4u4mjA0FguNwDb41cbwuZS9ekX7Nfk",
+      useTemplateId: "LzI1G2A9ZzI_j14Lt25tknvzL6akKOgOvzhoe3U1eic",
       province: "江西",
       city: "九江",
       horoscopeDate: '08-28',
@@ -118,9 +118,9 @@ export const USER_CONFIG = {
     {
       name: "吕先生",
       id: "oeaW45kWZYJgMfK9q4QOSk77Aw-g",
-      useTemplateId: "WykFeFDpKLRgQ4u4mjA0FguNwDb41cbwuZS9ekX7Nfk",
+      useTemplateId: "LzI1G2A9ZzI_j14Lt25tknvzL6akKOgOvzhoe3U1eic",
       province: "山西",
-      city: "灵石",
+      city: "晋中",
       horoscopeDate: '01-16',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
