@@ -106,13 +106,13 @@ export const USER_CONFIG = {
     {
       name: "吕先生请查收您的每日推送",
       id: "oeaW45kWZYJgMfK9q4QOSk77Aw-g",
-      useTemplateId: "LzI1G2A9ZzI_j14Lt25tknvzL6akKOgOvzhoe3U1eic",
+      useTemplateId: "HEVDJiOLSKKl9wL0x7CcANAzEyx4jvNWyyHTUP9u6G4	",
       province: "江西",
-      city: "九江",
-      horoscopeDate: '08-28',
+      city: "南昌",
+      horoscopeDate: '05-19',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [ {"type": "*生日", "name": "婷婷", "year": "2006", "date": "01-16"}],
+      festivals: [ {"type": "*生日", "name": "付小姐", "year": "2003", "date": "05-19"}],
       customizedDateList: [{"keyword": "love_day", date: "2023-01-01"}]
     },
     {
@@ -136,7 +136,7 @@ export const USER_CONFIG = {
    */
   
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "XkjMhdR3KYcFi43aNJLwgMY0eoHVWMIFQgfOCY3ITvc",
+  CALLBACK_TEMPLATE_ID: "Vo6AmBRyqbcYsB-i-4zpajI3GCDC2-PC4AIHJp4SNTQ",
   
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
