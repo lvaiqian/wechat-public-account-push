@@ -106,7 +106,7 @@ export const USER_CONFIG = {
     {
       name: "付小姐请查收您的每日推送",
       id: "oeaW45kWZYJgMfK9q4QOSk77Aw-g",
-      useTemplateId: "5GNm3IAYf3BshJIgLw0ZIbpVp8lbe0f8lkmsazHKn6w",
+      useTemplateId: "7ZmcL74fg3zmY0OeYlKmqPAnP0N9BpECJxy_nSevzWE",
       province: "江西",
       city: "南昌",
       horoscopeDate: '05-19',
@@ -118,7 +118,7 @@ export const USER_CONFIG = {
     {
       name: "付小姐",
       id: "oeaW45kWZYJgMfK9q4QOSk77Aw-g",
-      useTemplateId: "5GNm3IAYf3BshJIgLw0ZIbpVp8lbe0f8lkmsazHKn6w",
+      useTemplateId: "7ZmcL74fg3zmY0OeYlKmqPAnP0N9BpECJxy_nSevzWE",
       province: "江西",
       city: "九江",
       horoscopeDate: '05-19',
