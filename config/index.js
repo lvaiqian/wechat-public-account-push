@@ -61,7 +61,7 @@ export const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "婷婷的每日推送",
+      name: "吕的每日推送",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oeaW45gVpjFzTIVLaekY1kZ2U-R0",
       // 你想对他发送的模板消息的模板ID
@@ -92,7 +92,7 @@ export const USER_CONFIG = {
        
     },
     {
-      name: "婷婷请查收您的每日推送",
+      name: "吕请查收您的每日推送",
       id: "oeaW45gVpjFzTIVLaekY1kZ2U-R0",
       useTemplateId: "LzI1G2A9ZzI_j14Lt25tknvzL6akKOgOvzhoe3U1eic",
       province: "山西",
@@ -104,9 +104,9 @@ export const USER_CONFIG = {
       customizedDateList: [{"keyword": "love_day", date: "2023-01-01"}]
     },
     {
-      name: "吕先生请查收您的每日推送",
+      name: "付小姐请查收您的每日推送",
       id: "oeaW45kWZYJgMfK9q4QOSk77Aw-g",
-      useTemplateId: "HEVDJiOLSKKl9wL0x7CcANAzEyx4jvNWyyHTUP9u6G4",
+      useTemplateId: "5GNm3IAYf3BshJIgLw0ZIbpVp8lbe0f8lkmsazHKn6w",
       province: "江西",
       city: "南昌",
       horoscopeDate: '05-19',
@@ -116,15 +116,15 @@ export const USER_CONFIG = {
       customizedDateList: [{"keyword": "love_day", date: "2023-01-01"}]
     },
     {
-      name: "吕先生",
+      name: "付小姐",
       id: "oeaW45kWZYJgMfK9q4QOSk77Aw-g",
-      useTemplateId: "HEVDJiOLSKKl9wL0x7CcANAzEyx4jvNWyyHTUP9u6G4",
-      province: "山西",
-      city: "晋中",
-      horoscopeDate: '01-16',
+      useTemplateId: "5GNm3IAYf3BshJIgLw0ZIbpVp8lbe0f8lkmsazHKn6w",
+      province: "江西",
+      city: "九江",
+      horoscopeDate: '05-19',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [{"type": "*生日", "name": "婷婷", "year": "2006", "date": "01-16"}],
+      festivals: [{"type": "*生日", "name": "付小姐", "year": "2003", "date": "05-19"}],
       customizedDateList: [{"keyword": "love_day", date: "2023-01-01"}]
     },
     // 你可以不断按格式往下增加
