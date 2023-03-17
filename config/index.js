@@ -106,7 +106,7 @@ export const USER_CONFIG = {
     {
       name: "吕先生请查收您的每日推送",
       id: "oeaW45kWZYJgMfK9q4QOSk77Aw-g",
-      useTemplateId: "HEVDJiOLSKKl9wL0x7CcANAzEyx4jvNWyyHTUP9u6G4	",
+      useTemplateId: "HEVDJiOLSKKl9wL0x7CcANAzEyx4jvNWyyHTUP9u6G4",
       province: "江西",
       city: "南昌",
       horoscopeDate: '05-19',
@@ -118,7 +118,7 @@ export const USER_CONFIG = {
     {
       name: "吕先生",
       id: "oeaW45kWZYJgMfK9q4QOSk77Aw-g",
-      useTemplateId: "LzI1G2A9ZzI_j14Lt25tknvzL6akKOgOvzhoe3U1eic",
+      useTemplateId: "HEVDJiOLSKKl9wL0x7CcANAzEyx4jvNWyyHTUP9u6G4",
       province: "山西",
       city: "晋中",
       horoscopeDate: '01-16',
