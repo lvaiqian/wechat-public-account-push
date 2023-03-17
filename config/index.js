@@ -105,7 +105,7 @@ export const USER_CONFIG = {
     },
     {
       name: "付小姐请查收您的每日推送",
-      id: "oeaW45kWZYJgMfK9q4QOSk77Aw-g",
+      id: "oeaW45sQ7oY0snRObaccuEXLxAqc",
       useTemplateId: "7ZmcL74fg3zmY0OeYlKmqPAnP0N9BpECJxy_nSevzWE",
       province: "江西",
       city: "南昌",
@@ -117,7 +117,7 @@ export const USER_CONFIG = {
     },
     {
       name: "付小姐",
-      id: "oeaW45kWZYJgMfK9q4QOSk77Aw-g",
+      id: "oeaW45sQ7oY0snRObaccuEXLxAqc",
       useTemplateId: "7ZmcL74fg3zmY0OeYlKmqPAnP0N9BpECJxy_nSevzWE",
       province: "江西",
       city: "九江",
