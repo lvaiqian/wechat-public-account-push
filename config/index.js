@@ -112,7 +112,7 @@ export const USER_CONFIG = {
       horoscopeDate: '05-19',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [ {"type": "*生日", "name": "付小姐", "year": "2003", "date": "05-19"}],
+      festivals: [ {"type": "生日", "name": "付小姐", "year": "2003", "date": "05-19"}],
       customizedDateList: [{"keyword": "love_day", date: "2023-05-19"}]
     },
     {
@@ -124,7 +124,7 @@ export const USER_CONFIG = {
       horoscopeDate: '05-19',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [{"type": "*生日", "name": "付小姐", "year": "2003", "date": "05-19"}],
+      festivals: [{"type": "生日", "name": "付小姐", "year": "2003", "date": "05-19"}],
       customizedDateList: [{"keyword": "love_day", date: "2023-05-19"}]
     },
     // 你可以不断按格式往下增加
