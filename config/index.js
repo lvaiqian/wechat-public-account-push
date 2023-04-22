@@ -106,7 +106,7 @@ export const USER_CONFIG = {
     {
       name: "王憨憨请查收您的每日推送",
       id: "oeaW45o6b2lB8OjiOptuIPGMEOoE",
-      useTemplateId: "vr-2jzH_TdKaFxaEOntj01Ebhb8M3DJB-li8eDuH3pM",
+      useTemplateId: "ob9duFjPBXaLcT3aGmKZ0LEqD3RZ-u5cBp4UAXbOywQ",
       province: "福建",
       city: "泉州",
       horoscopeDate: '04-29',
@@ -118,7 +118,7 @@ export const USER_CONFIG = {
     {
       name: "王聪聪请查收你的每日推送",
       id: "oeaW45o6b2lB8OjiOptuIPGMEOoE",
-      useTemplateId: "OCFl0ndvVVDHki1n_ZsHvSCijI1KHZHSQr7R3mJ0eVA",
+      useTemplateId: "SxP1pOnuNPZ7yqX0sV7VYnzu91T6J3gyZIDwLptt30Y",
       province: "山东",
       city: "潍坊",
       horoscopeDate: '04-29',
