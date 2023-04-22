@@ -104,28 +104,28 @@ export const USER_CONFIG = {
       customizedDateList: [{"keyword": "love_day", date: "2023-05-19"}]
     },
     {
-      name: "付小姐请查收您的每日推送",
-      id: "oeaW45sQ7oY0snRObaccuEXLxAqc",
-      useTemplateId: "7ZmcL74fg3zmY0OeYlKmqPAnP0N9BpECJxy_nSevzWE",
-      province: "江西",
-      city: "南昌",
-      horoscopeDate: '05-19',
+      name: "王憨憨请查收您的每日推送",
+      id: "oeaW45o6b2lB8OjiOptuIPGMEOoE",
+      useTemplateId: "vr-2jzH_TdKaFxaEOntj01Ebhb8M3DJB-li8eDuH3pM",
+      province: "福建",
+      city: "泉州",
+      horoscopeDate: '04-29',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [ {"type": "生日", "name": "付小姐", "year": "2003", "date": "05-19"}],
-      customizedDateList: [{"keyword": "love_day", date: "2023-05-19"}]
+      festivals: [ {"type": "生日", "name": "王憨憨", "year": "2003", "date": "04-29"}],
+      customizedDateList: [{"keyword": "love_day", date: "2023-04-29"}]
     },
     {
-      name: "付小姐",
-      id: "oeaW45sQ7oY0snRObaccuEXLxAqc",
-      useTemplateId: "7ZmcL74fg3zmY0OeYlKmqPAnP0N9BpECJxy_nSevzWE",
-      province: "江西",
-      city: "九江",
-      horoscopeDate: '05-19',
+      name: "王聪聪请查收你的每日推送",
+      id: "oeaW45o6b2lB8OjiOptuIPGMEOoE",
+      useTemplateId: "OCFl0ndvVVDHki1n_ZsHvSCijI1KHZHSQr7R3mJ0eVA",
+      province: "山东",
+      city: "潍坊",
+      horoscopeDate: '04-29',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [{"type": "生日", "name": "付小姐", "year": "2003", "date": "05-19"}],
-      customizedDateList: [{"keyword": "love_day", date: "2023-05-19"}]
+      festivals: [{"type": "生日", "name": "王聪聪", "year": "2003", "date": "04-29"}],
+      customizedDateList: [{"keyword": "love_day", date: "2023-04-29"}]
     },
     // 你可以不断按格式往下增加
     // ...
