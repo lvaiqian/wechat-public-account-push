@@ -112,7 +112,7 @@ export const USER_CONFIG = {
       horoscopeDate: '04-26',
       horoscopeDateType: '今日',
       openUrl: "https://baike.baidu.com/item/%E5%BC%A0%E8%BF%9C/16466",
-      festivals: [ {"type": "生日", "name": "王憨憨", "year": "2003", "date": "04-26"}],
+      festivals: [ {"type": "生日", "name": "小鱼", "year": "2003", "date": "04-26"}],
       customizedDateList: [{"keyword": "love_day", date: "2023-04-26"}]
     },
     {
@@ -124,7 +124,7 @@ export const USER_CONFIG = {
       horoscopeDate: '04-26',
       horoscopeDateType: '今日',
       openUrl: "https://baike.baidu.com/item/%E5%BC%A0%E8%BF%9C/16466",
-      festivals: [{"type": "生日", "name": "王聪聪", "year": "2003", "date": "04-26"}],
+      festivals: [{"type": "生日", "name": "小鱼", "year": "2003", "date": "04-26"}],
       customizedDateList: [{"keyword": "love_day", date: "2023-04-26"}]
     },
     // 你可以不断按格式往下增加
