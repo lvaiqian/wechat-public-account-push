@@ -104,28 +104,28 @@ export const USER_CONFIG = {
       customizedDateList: [{"keyword": "love_day", date: "2023-05-19"}]
     },
     {
-      name: "王憨憨请查收您的每日推送",
-      id: "oeaW45o6b2lB8OjiOptuIPGMEOoE",
-      useTemplateId: "ob9duFjPBXaLcT3aGmKZ0LEqD3RZ-u5cBp4UAXbOywQ",
-      province: "福建",
-      city: "泉州",
-      horoscopeDate: '04-29',
+      name: "小鱼请查收您的每日推送",
+      id: "oeaW45lzBCVlkeMvIpJvVS785gD0",
+      useTemplateId: "5IPvPsLtOg7RfufTN41KPHOuEXWXe60WGKgiw-HWhUo",
+      province: "河南",
+      city: "郑州",
+      horoscopeDate: '04-26',
       horoscopeDateType: '今日',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [ {"type": "生日", "name": "王憨憨", "year": "2003", "date": "04-29"}],
-      customizedDateList: [{"keyword": "love_day", date: "2023-04-29"}]
+      openUrl: "https://baike.baidu.com/item/%E5%BC%A0%E8%BF%9C/16466",
+      festivals: [ {"type": "生日", "name": "王憨憨", "year": "2003", "date": "04-26"}],
+      customizedDateList: [{"keyword": "love_day", date: "2023-04-26"}]
     },
     {
-      name: "王聪聪请查收你的每日推送",
-      id: "oeaW45o6b2lB8OjiOptuIPGMEOoE",
-      useTemplateId: "SxP1pOnuNPZ7yqX0sV7VYnzu91T6J3gyZIDwLptt30Y",
-      province: "山东",
-      city: "潍坊",
-      horoscopeDate: '04-29',
+      name: "小鱼请查收你的每日推送",
+      id: "oeaW45lzBCVlkeMvIpJvVS785gD0",
+      useTemplateId: "5IPvPsLtOg7RfufTN41KPHOuEXWXe60WGKgiw-HWhUo",
+      province: "江苏",
+      city: "盐城",
+      horoscopeDate: '04-26',
       horoscopeDateType: '今日',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [{"type": "生日", "name": "王聪聪", "year": "2003", "date": "04-29"}],
-      customizedDateList: [{"keyword": "love_day", date: "2023-04-29"}]
+      openUrl: "https://baike.baidu.com/item/%E5%BC%A0%E8%BF%9C/16466",
+      festivals: [{"type": "生日", "name": "王聪聪", "year": "2003", "date": "04-26"}],
+      customizedDateList: [{"keyword": "love_day", date: "2023-04-26"}]
     },
     // 你可以不断按格式往下增加
     // ...
